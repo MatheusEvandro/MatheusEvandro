@@ -1,6 +1,6 @@
  # Sobre mim
 - 👋 Meu nome é @MatheusEvandro
-- :+1:Meu email de contato é matheus.evandro.goncalves@escola.pr.gov.br
+- :+1:Meu email de contato é [email](matheus.evandro.goncalves@escola.pr.gov.br)
 -  👀 Estou interessado em aprender a programar novas  linguagens 
 - 🌱 Estou aprendendo a programar recentemente a linguagem de JavaScript e Scrath
 
